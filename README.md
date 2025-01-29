@@ -23,4 +23,4 @@ Visualize a lista de amigos:
 3 - A lista de amigos será exibida na tela à medida que você for adicionando nomes.
 
 
-4 - Clique no botão "Sortear Amigo" para que um nome seja sorteado aleatoriamente da lista.![image](https://github.com/user-attachments/assets/db21d298-cb2a-49e3-8358-f427fac2cb91)
+4 - Clique no botão "Sortear Amigo" para que um nome seja sorteado aleatoriamente da lista.
